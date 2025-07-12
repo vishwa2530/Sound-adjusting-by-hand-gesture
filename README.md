@@ -1,1 +1,0 @@
-# Sound-adjusting-by-hand-gesture
